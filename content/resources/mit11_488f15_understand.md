@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8a4527b6-1e4d-765c-9991-a7e30b97715b
 resourcetype: Document
 title: "Understanding Baltimore\u2019s Violent Spaces: Conclusions"
 uid: 9ce7494b-67c3-c1bf-c807-bc7d1fd6aeae

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8a4527b6-1e4d-765c-9991-a7e30b97715b
 resourcetype: Document
 title: Part 2 Guidelines - Intervening in Urban Conflict
 uid: 7c1f16b7-dc17-2060-5eb3-f0ec6e7970c9

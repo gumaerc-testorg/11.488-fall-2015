@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8a4527b6-1e4d-765c-9991-a7e30b97715b
 resourcetype: Document
 title: 'Paper 2, Part 2 - Policy Memorandum: Reducing Violent Crime Through Better
   Reentry Services in Baltimore'
