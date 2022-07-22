@@ -8,6 +8,7 @@ file: /courses/11-488-urban-development-in-conflict-cities-planning-challenges-a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Part 1 Guidelines - Defining Urban Conflict
 uid: 1f8c4098-1d45-3ae4-1149-b9d3b42f2f9d
 ---
 Assignment to choose a city in the world that presents a high level of urban conflict, document the process of conflict in that city, measure the manifestations of conflict, and describe the policies that have been implemented so to avoid further conflict.
-

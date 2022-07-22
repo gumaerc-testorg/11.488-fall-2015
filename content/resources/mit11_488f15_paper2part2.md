@@ -7,6 +7,7 @@ file: /courses/11-488-urban-development-in-conflict-cities-planning-challenges-a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Paper 2, Part 2 - Policy Memorandum: Reducing Violent Crime Through Bett
 uid: 53649130-f6fc-71b2-94c4-a60d1c957590
 ---
 Sample student work for an assignment to select a particular issue of violent manifestation of conflict, explain the problem, present the history of intervention on it, and propose a project/policy to engage with such selected issue.
-
