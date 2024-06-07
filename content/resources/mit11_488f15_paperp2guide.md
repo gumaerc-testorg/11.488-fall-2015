@@ -4,6 +4,7 @@ description: Assignment to select a particular issue of violent manifestation of
   explain the problem, present the history of intervention on it, and propose a project/policy
   to engage with such selected issue.
 file: /courses/11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015/7c1f16b7dc1720605eb3f0ec6e7970c9_MIT11_488F15_PaperP2Guide.pdf
+file_size: 152384
 file_type: application/pdf
 learning_resource_types:
 - Assignments

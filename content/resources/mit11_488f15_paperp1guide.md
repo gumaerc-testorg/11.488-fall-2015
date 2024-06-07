@@ -5,6 +5,7 @@ description: Assignment to choose a city in the world that presents a high level
   of conflict, and describe the policies that have been implemented so to avoid further
   conflict.
 file: /courses/11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015/1f8c40981d453ae41149b9d3b42f2f9d_MIT11_488F15_PaperP1Guide.pdf
+file_size: 864283
 file_type: application/pdf
 learning_resource_types:
 - Assignments
