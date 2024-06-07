@@ -4,6 +4,7 @@ description: Sample student work for an assignment to select a particular issue 
   violent manifestation of conflict, explain the problem, present the history of intervention
   on it, and propose a project/policy to engage with such selected issue.
 file: /courses/11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015/557777684a6c3d530a217ff60f86735a_MIT11_488F15_Paper2Part1.pdf
+file_size: 573919
 file_type: application/pdf
 learning_resource_types:
 - Assignments
