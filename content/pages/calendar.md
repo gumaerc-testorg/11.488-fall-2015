@@ -167,7 +167,7 @@ How we map conflict narrows the ways that we understand it, different perspectiv
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-Guest lecturer: Matthew R. McNabb, Chief Executive Officer, [First Mile Geo](https://www.firstmilegeo.com/)
+Guest lecturer: Matthew R. McNabb, Chief Executive Officer, First Mile Geo
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}

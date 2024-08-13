@@ -69,7 +69,7 @@ Violent Conflict Multiple Definitions (cont.)
 
 ### Student-led Discussion Readings
 
-["Guns in the City: Urban Landscapes of Armed Violence." (PDF - 4.5MB)](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=7D3E29B4DD6B5BEFB31BD62034BBA61C?doi=10.1.1.174.6030&rep=rep1&type=pdf) *Small Arms Survey* (2007): 162–256. Human security for an Urban Century, Selected Readings.
+["Guns in the City: Urban Landscapes of Armed Violence." (PDF - 4.5MB)](https://www.smallarmssurvey.org/resource/small-arms-survey-2007-guns-and-city) *Small Arms Survey* (2007): 162–256. Human security for an Urban Century, Selected Readings.
 
 Rodgers, Dennis, Jo Beall, and S M Ravi Kanbur, eds. "Urban Violence, Quality of Life, and the Future of Latin American Cities: The Dismal Record So Far, and the Search for New Analytical Frameworks to Sustain a Bias Towards Hope." In *Latin American Urban Development into the Twenty First Century: Towards a Renewed Perspective on the City.* Palgrave Macmillan, 2012. ISBN: 9780230371545.
 
@@ -95,7 +95,7 @@ Military Perspective (cont.)
 
 ### Student-led Discussion Readings
 
-Hahn, Robert F., and Bonnie Jezior. "[Urban Warfare and the Urban Warfighter of 2025](http://connection.ebscohost.com/c/articles/1994445/urban-warfare-urban-warfighter-2)." *Parameters* 29, no. 2 (1999): 74–86.
+Hahn, Robert F., and Bonnie Jezior. "[Urban Warfare and the Urban Warfighter of 2025](https://press.armywarcollege.edu/parameters/vol29/iss2/5/)." *Parameters* 29, no. 2 (1999): 74–86.
 
 Weizman, Eyal. "[Forensic Architecture Only The Criminal Can Solve The Crime](https://www.radicalphilosophy.com/article/forensic-architecture)." *Radical Philosophy* 164 (2010): 9–24.
 
@@ -115,7 +115,7 @@ No readings assigned
 Slum Wars
 {{< tdclose >}}{{< tdopen >}}
 
-Rodgers, Dennis. "[Slum Wars of the 21st Century: The New Geography of Conflict in Central America](http://r4d.dfid.gov.uk/Output/173191/)." Crisis States Research Centre Working Paper no. 10, 2007.
+Rodgers, Dennis. "[Slum Wars of the 21st Century: The New Geography of Conflict in Central America](https://www.gov.uk/research-for-development-outputs/working-paper-no-10-slum-wars-of-the-21st-century-the-new-geography-of-conflict-in-central-america)." Crisis States Research Centre Working Paper no. 10, 2007.
 
 Blake, Damion. "[Shadowing the State: Violent Control and the Social Power of Jamaican Garrison Dons](http://connection.ebscohost.com/c/articles/95101181/shadowing-state-violent-control-social-power-jamaican-garrison-dons)." *Journal of Ethnographic & Qualitative Research* 8, no. 1 (2013): 56.
 
@@ -207,7 +207,7 @@ Mapping Conflict (cont.)
 
 ### Student-led Discussion Readings
 
-Hagedorn, J. M. "[Race Not Space: A Revisionist History Of Gangs In Chicago](http://connection.ebscohost.com/c/articles/22188915/race-not-space-revisionist-history-gangs-chicago)." *Journal Of African American History* 91, no. 2 (2006): 194–208.
+Hagedorn, J. M. "[Race Not Space: A Revisionist History Of Gangs In Chicago" (PDF)](https://www.jstor.org/stable/pdf/20064070.pdf). *Journal Of African American History* 91, no. 2 (2006): 194–208.
 
 Eck, John, Spencer Chainey, et al. ["Mapping Crime: Understanding Hot Spots." (PDF - 1.6MB)](https://www.ncjrs.gov/pdffiles1/nij/209393.pdf) *National Institute of Justice*, 2005.
 
