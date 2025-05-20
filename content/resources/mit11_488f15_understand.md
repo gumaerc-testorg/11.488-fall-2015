@@ -4,7 +4,7 @@ description: Sample student work for an assignment to choose a city in the world
   presents a high level of urban conflict, document the process of conflict in that
   city, measure the manifestations of conflict, and describe the policies that have
   been implemented so to avoid further conflict.
-file: /ol-ocw-studio-app/courses/11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015/9ce7494b67c3c1bfc807bc7d1fd6aeae_MIT11_488F15_Understand.pdf
+file: /courses/11-488-urban-development-in-conflict-cities-planning-challenges-and-policy-innovations-fall-2015/9ce7494b67c3c1bfc807bc7d1fd6aeae_MIT11_488F15_Understand.pdf
 file_size: 1309804
 file_type: application/pdf
 learning_resource_types:
